@@ -18,7 +18,7 @@ Irei tentar atualizar o site em breve com alguma outras coisas, por enquanto o s
 
 Fonts:
 
-https://digilandia.io/transformacao-digital/landing-page/#O_que_e_landing_page (O QUE É LANDING PAGE)
+https://digilandia.io/transformacao-digital/landing-page/#O_que_e_landing_page (O QUE É LANDING PAGE) <br>
 https://www.youtube.com/watch?v=llF6vD-RljE (VIDEO DA RAFA)
 
 
