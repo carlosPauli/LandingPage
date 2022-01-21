@@ -16,6 +16,10 @@ Irei tentar atualizar o site em breve com alguma outras coisas, por enquanto o s
 
 <img src="https://media3.giphy.com/media/4JUadKw9UKT6i461rV/giphy.gif?cid=ecf05e478wnhbubmi3er71xl7slcx10f8dehrbc62ahhy1uz&rid=giphy.gif&ct=g">
 
+Imagem do Site <br>
+
+<img src="LandingPage/Landing Page/imagens/Site.png">
+
 Fonts:
 
 https://digilandia.io/transformacao-digital/landing-page/#O_que_e_landing_page (O QUE É LANDING PAGE) <br>
