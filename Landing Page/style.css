@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,500&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {
+    font-size: 100%;
+    background-image: url("./imagens/background.png");
+    background-attachment: fixed;
+    
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 18px;
+}
+
+.cabecalho
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.imagem_logo {
+
+    height: 150px;
+}
+
+.menu
+{
+   display: flex;
+   gap: 35px; 
+}
+
+.conteudo
+{
+    margin-bottom: 48px;
+}
+
+.secao1
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+.secao1-conteudo-escrito
+{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.titulo-principal
+{
+    text-decoration: none;
+    color: #fff;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 22px;
+}
+
+.subtitulo-principal
+{
+    text-decoration: none;
+    color: #fff;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 22px;
+}
+
+.btn
+{
+    background-color: #B22222;
+    border-radius: 5px;
+    width: 180px;
+    height: 30px;
+    box-shadow: 4px 5px 4px rgb(0, 0, 0, 0.25);
+}
+
+.imagem_principal
+{
+    height: 400px;
+}
+
+.secao2
+{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    align-items: center;
+    margin-top: 15px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.rodape
+{
+    text-align: center;
+
+}
+
+.imagem-rodape
+{
+    height: 150px;
+}
